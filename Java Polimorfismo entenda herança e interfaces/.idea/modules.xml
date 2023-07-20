@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Polimorfismo entenda herança e interfaces.iml" filepath="$PROJECT_DIR$/.idea/Java Polimorfismo entenda herança e interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBank/MyBank.iml" filepath="$PROJECT_DIR$/MyBank/MyBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBank-2/MyBank-2.iml" filepath="$PROJECT_DIR$/MyBank-2/MyBank-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBank-client/MyBank-client.iml" filepath="$PROJECT_DIR$/MyBank-client/MyBank-client.iml" />
+    </modules>
+  </component>
+</project>
